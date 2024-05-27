@@ -29,4 +29,4 @@ spec:
   type: service
   system: system:default/examples
   lifecycle: production
-  owner: Pengum0
+  owner: user:default/medmouine
