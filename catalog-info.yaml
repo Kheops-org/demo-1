@@ -26,7 +26,7 @@ metadata:
     github.com/workflows: docker-image.yml
     github.com/project-slug: kheops-org/demo-1
 spec:
-  type: api
+  type: service
   system: system:default/examples
   lifecycle: production
   owner: Pengum0
